@@ -7,7 +7,7 @@ with open("README.rst", "r") as fh:
 
 setup(
     name="rtframework",
-    version="0.0.7",
+    version="0.0.8",
     author="Alex Makasoff",
     author_email="alexmakasoff@gmail.com",
     description="Test framework geared for stress and load testing",
