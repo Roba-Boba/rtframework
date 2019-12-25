@@ -2,7 +2,4 @@
 realtimeframework contributors
 ==============================
 
-===========================    ===========
-Name                           Years
-===========================    ===========
-Alex Makasoff                  2019 - present
+Alex Makasoff
